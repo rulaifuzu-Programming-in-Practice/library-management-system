@@ -1,0 +1,10 @@
+# ninja log v6
+17	3733	7742516355467933	library_autogen/timestamp	8b36f5596b4fe84
+17	3733	7742516355467933	library_autogen/mocs_compilation.cpp	8b36f5596b4fe84
+17	3733	7742516355467933	D:/QTziliao/lianxi/library/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/library_autogen/timestamp	8b36f5596b4fe84
+17	3733	7742516355467933	D:/QTziliao/lianxi/library/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/library_autogen/mocs_compilation.cpp	8b36f5596b4fe84
+3747	6667	7742516358362185	CMakeFiles/library.dir/library_autogen/mocs_compilation.cpp.obj	d4c41cac5ae48b36
+4431	6966	7742516365207887	CMakeFiles/library.dir/mainwindow.cpp.obj	696a45becc9e5e1d
+4066	7006	7742516361562952	CMakeFiles/library.dir/main.cpp.obj	5f36b054302cd6f
+4726	7403	7742516368154210	CMakeFiles/library.dir/loginwindow.cpp.obj	47b309007db0be12
+7405	8790	7742516394942311	library.exe	ff066045e5dcc421
