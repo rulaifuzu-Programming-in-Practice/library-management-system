@@ -1,0 +1,24 @@
+# ninja log v6
+24	1242	7742743377727458	library_autogen/timestamp	8e55d5a45764edf7
+24	1242	7742743377727458	library_autogen/mocs_compilation.cpp	8e55d5a45764edf7
+3098	3843	7742743408467496	library.exe	7dd097a197a52b8d
+2511	4555	7742728229358818	CMakeFiles/library.dir/library_autogen/mocs_compilation.cpp.obj	5d169a7259463424
+2070	2511	7742728228909312	library_autogen/3YJK5W5UP7/qrc_resources.cpp	54977fdd75bbb065
+24	1242	7742743377727458	C:/Users/666/Desktop/qt/library/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/library_autogen/timestamp	8e55d5a45764edf7
+24	1242	7742743377727458	C:/Users/666/Desktop/qt/library/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/library_autogen/mocs_compilation.cpp	8e55d5a45764edf7
+2681	4633	7742728231060640	CMakeFiles/library.dir/main.cpp.obj	dc8cc968f3a7827d
+1243	3098	7742743389914937	CMakeFiles/library.dir/widget.cpp.obj	71102cfb16e145b
+2070	2511	7742728228909312	C:/Users/666/Desktop/qt/library/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/library_autogen/3YJK5W5UP7/qrc_resources.cpp	54977fdd75bbb065
+3001	4044	7742728234259842	CMakeFiles/library.dir/library_autogen/3YJK5W5UP7/qrc_resources.cpp.obj	68a87df66fdceba0
+30	1154	7742745105556057	library_autogen/timestamp	8e55d5a45764edf7
+30	1154	7742745105556057	library_autogen/mocs_compilation.cpp	8e55d5a45764edf7
+30	1154	7742745105556057	C:/Users/666/Desktop/qt/library/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/library_autogen/timestamp	8e55d5a45764edf7
+30	1154	7742745105556057	C:/Users/666/Desktop/qt/library/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/library_autogen/mocs_compilation.cpp	8e55d5a45764edf7
+1155	3225	7742745116805092	CMakeFiles/library.dir/widget.cpp.obj	71102cfb16e145b
+3225	4028	7742745137496139	library.exe	7dd097a197a52b8d
+23	1117	7742745825177228	library_autogen/timestamp	8e55d5a45764edf7
+23	1117	7742745825177228	library_autogen/mocs_compilation.cpp	8e55d5a45764edf7
+23	1117	7742745825177228	C:/Users/666/Desktop/qt/library/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/library_autogen/timestamp	8e55d5a45764edf7
+23	1117	7742745825177228	C:/Users/666/Desktop/qt/library/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/library_autogen/mocs_compilation.cpp	8e55d5a45764edf7
+1118	3216	7742745836128664	CMakeFiles/library.dir/widget.cpp.obj	71102cfb16e145b
+3216	3942	7742745857103069	library.exe	7dd097a197a52b8d
